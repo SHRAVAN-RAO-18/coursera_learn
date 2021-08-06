@@ -1,2 +1,2 @@
-# coursera_learn
+# coursera_workspace
 
